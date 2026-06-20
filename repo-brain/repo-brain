@@ -1,0 +1,6 @@
+#!/usr/bin/env bash
+# Launcher for the repo-brain CLI. Uses the project's virtualenv.
+# Usage: ./repo-brain <command> [args]   (or add this dir to your PATH)
+set -euo pipefail
+HERE="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
+exec "$HERE/.venv/bin/python" "$HERE/cli/main.py" "$@"

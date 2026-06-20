@@ -1,0 +1,12 @@
+# repo-brain tool state (kept out of the managed repository's history)
+repo-brain/.venv/
+repo-brain/memory/chroma/
+repo-brain/logs/
+
+# Python
+__pycache__/
+*.pyc
+.DS_Store
+
+# Secrets (protected by repo-brain; also never committed)
+.env

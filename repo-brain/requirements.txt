@@ -1,0 +1,7 @@
+google-adk
+google-genai
+chromadb
+sentence-transformers
+mcp
+typer
+gitpython

@@ -1,0 +1,6 @@
+Weekly Sync - Notes
+
+- Reviewed the authentication approach; OAuth2 confirmed (see auth_notes_v2).
+- Repository has become messy, files scattered at the root.
+- Action item: use the "repo brain" tool to auto-organize and index files.
+- Next steps: dry-run organizer, audit log, semantic search demo.
