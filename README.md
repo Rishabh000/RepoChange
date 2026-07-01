@@ -1,4 +1,4 @@
-# RepoChange / repo-brain
+# RepoChange
 
 An agentic "second brain" for a code repository. It organizes messy files,
 records every action, tracks changes through Git, and builds a searchable
